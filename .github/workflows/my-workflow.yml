@@ -17,3 +17,5 @@ jobs:
         uses: ./.github/actions/hello-world
         with:
           firstGreeting: "Learning Lab User"
+          secondGreeting: "Keep going Phyo!"
+          thirdGreeting: "Phyo"
